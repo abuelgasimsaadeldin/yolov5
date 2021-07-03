@@ -250,7 +250,7 @@ For issues running YOLOv5 please visit [GitHub Issues](https://github.com/ultral
     <a href="https://www.linkedin.com/company/ultralytics">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="3%"/>
     </a>
-    <img width="3%" />
+    <img width="33%" />
     <a href="https://twitter.com/ultralytics">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-twitter.png" width="3%"/>
     </a>
